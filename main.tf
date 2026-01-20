@@ -15,6 +15,7 @@ provider "aws" {
 # ----------------------------
 # Security Group allowing SSH for admin access
 # and HTTP for public web traffic
+#IGNORE THIS LINE
 # ----------------------------
 resource "aws_security_group" "cloud_ops_sg" {
   name        = "cloud-ops-sg"
