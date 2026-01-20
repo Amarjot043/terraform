@@ -50,7 +50,7 @@ resource "aws_security_group" "cloud_ops_sg" {
 }
 
 # ----------------------------
-# EC2 Instance
+# EC2 Instance change
 # ----------------------------
 resource "aws_instance" "cloud_ops_ec2" {
   ami           = var.ami_id
