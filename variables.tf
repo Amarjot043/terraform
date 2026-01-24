@@ -24,3 +24,6 @@ variable "admin_ip" {
   description = "Admin public IP for SSH access"
   type        = string
 }
+
+
+

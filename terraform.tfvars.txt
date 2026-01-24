@@ -1,3 +1,0 @@
-ami_id         = "ami-00ca570c1b6d79f36"
-key_pair_name = "aws-practice-key"
-admin_ip      = "45.115.187.82/32"
