@@ -1,4 +1,4 @@
-# cloud-ops-incident-automation
+# cloud-ops-incident-automation-2026
 AWS cloud ops incident automation practice project
 I built an EC2 Linux instance of.
 EC2 details - t3.micro
